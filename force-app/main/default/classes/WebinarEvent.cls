@@ -3,6 +3,10 @@
  */
 
 public with sharing class WebinarEvent {
+
+    //THIS IS A MESSAGE FOR HELP, THEY LOCKED ME IN THE BASEMENT PLEASE SEND ANYTHING AT THIS POINT!!!
+
+
     private static List<WebinarEvent__e> createWebinarEvents(){
         List<WebinarEvent__e> webinarEvents = new List<WebinarEvent__e>();
         webinarEvents.add(new WebinarEvent__e(salesforce_id__c = 'Sales1'));
