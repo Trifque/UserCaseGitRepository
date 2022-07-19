@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>WebinarEvent</members>
+        <members>WebinarListController</members>
+        <members>WebinarTeamControllerHelper</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>WebinarEvent__e</members>
+        <members>Webinar_Team_Member__c</members>
+        <members>Webinar__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <name>CustomField</name>
+    </types>
     <version>55.0</version>
 </Package>
